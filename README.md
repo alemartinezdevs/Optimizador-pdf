@@ -8,7 +8,14 @@ enlace: https://github.com/ArtifexSoftware/ghostpdl-downloads/releases/download/
 
 Añadir la ruta de **Ghostscript** a las variables del sistema.
 
-Para bajar la intensidad del optimizado hacer uso de la siguiente tabla: 
+Por ultimo ejecutar el comando: **python optimizar_pdf.py** 
+
+
+
+
+
+
+Para bajar o aumentar la intensidad del optimizado hacer uso de la siguiente tabla: 
 
 **Valor**  
 
